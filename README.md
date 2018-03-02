@@ -15,6 +15,9 @@ Android Version Unfinish APP
 - Check APP : list of third party app installed in android
 - Network Stat : netstat syntax to check network connection between device and other connection
 - Finding IP : to find IP using ip-api.com (json)
-- File Encryption : to encrypt and rename extenstion (unfinish)
 - About : just about this app
 - Share : for sharing this app
+
+Optional
+- File Encryption : to encrypt and rename extenstion (unfinish)
+- File / Photo Vault : to hide a file or picture from gallery and encrypted
