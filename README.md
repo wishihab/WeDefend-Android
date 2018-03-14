@@ -17,11 +17,11 @@
 - [x] Check APP : list of third party app installed in android
 - [x] Network Stat : netstat syntax to check network connection between device and other connection
 - [x] Finding IP : to find IP using ip-api.com (json)
-- [] Encryption ???
+- [ ] Encryption ???
 - [x] About : just about this app
 - [x] Share : for sharing this app
 
-- []**Project Complete**
+- [ ]**Project Complete**
 
 
 
