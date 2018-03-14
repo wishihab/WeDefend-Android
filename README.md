@@ -1,5 +1,7 @@
 # WiDefend-Android
-Android Version Unfinish APP
+
+**MONITOR AND INCIDENT RESPONSE FROM REMOTE ACCESS TOOL**
+
 
 
 ![ScreenShot](https://github.com/wishihab/WiDefend-Android/blob/master/WiDefendAndroid.JPG)
@@ -10,11 +12,17 @@ Android Version Unfinish APP
 
 # Features
 
-- My Device : to detect Operating System, Hardware, Device, Model and Product
-- Scan File : scan file using nodistribute.com online scanner file (max 3 file /day)
-- Check APP : list of third party app installed in android
-- Network Stat : netstat syntax to check network connection between device and other connection
-- Finding IP : to find IP using ip-api.com (json)
-- Encryption ???
-- About : just about this app
-- Share : for sharing this app
+[x] My Device : to detect Operating System, Hardware, Device, Model and Product
+[x] Scan File : scan file using nodistribute.com online scanner file (max 3 file /day)
+[x] Check APP : list of third party app installed in android
+[x] Network Stat : netstat syntax to check network connection between device and other connection
+[x] Finding IP : to find IP using ip-api.com (json)
+[] Encryption ???
+[x] About : just about this app
+[x] Share : for sharing this app
+
+
+
+
+> *Keywords: Android, Trojan Malware, Remote Access Tool.*
+> []Project Complete
