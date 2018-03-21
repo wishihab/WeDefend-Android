@@ -13,20 +13,35 @@
 # Features
 
 - [x] My Device : to detect Operating System, Hardware, Device, Model and Product
-- [x] Scan File : scan file using nodistribute.com online scanner file (max 3 file /day)
-- [x] Check APP : list of third party app installed in android
-- [x] Network Stat : netstat syntax to check network connection between device and other connection
-- [ ] Auto Categorize IP Level
-- [x] Finding IP : to find IP using ip-api.com (json)
+	- [x] Operating System
+	- [x] Hardware
+	- [x] Model
+	- [x] Product
+	- [x] System Update
+- [ ] Check APP : 
+	- [x] List of third party app installed in android
+	- [ ] Permission Auditor
+	- [x] Online Scan
+- [ ] Network Stat :
+	- [x] Netstat syntax to check network connection between device and other connection
+	- [ ] Auto Categorize IP Level
+	- [x] Geo IP : to find IP using ip-api.com (json)
+	
 - [ ] Encryption ???
-- [x] About : just about this app
-- [x] Share : for sharing this app
+	- [ ] ???????????
+	- [ ] ???????????
+	- [ ] ???????????
+
+- [x] About : 
+	- [x] Information
+	- [x] Share : for sharing this app
+
+
 
 
 # Proccess
 
 - [ ] Project Complete
-
 
 
 > *Keywords: Android, Trojan Malware, Remote Access Tool.*
