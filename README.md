@@ -18,10 +18,14 @@
 	- [x] Model
 	- [x] Product
 	- [x] System Update
+	
+- [x] Scanner :
+	- [x] Online Scan
+	
 - [ ] Check APP : 
 	- [x] List of third party app installed in android
 	- [ ] Permission Auditor
-	- [x] Online Scan
+	
 - [ ] Network Stat :
 	- [x] Netstat syntax to check network connection between device and other connection
 	- [x] Geolocation IP using ip-api.com
