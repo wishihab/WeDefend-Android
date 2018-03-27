@@ -4,7 +4,7 @@
 
 
 
-![ScreenShot](https://github.com/wishihab/WiDefend-Android/blob/master/WiDefendAndroid.JPG)
+![ScreenShot](https://github.com/wishihab/WiDefend-Android/blob/master/WiDefendAndroids.JPG)
 
 # System Req
 
