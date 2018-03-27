@@ -24,11 +24,11 @@
 	- [x] Online Scan
 - [ ] Network Stat :
 	- [x] Netstat syntax to check network connection between device and other connection
-	- [ ] Auto Categorize IP Level
 	- [x] Geolocation IP using ip-api.com
+	- [ ] Auto Categorize IP Level (goal)
 	
 - [ ] Encryption ???
-	- [ ] ???????????
+	- [ ] File Encryption
 	- [ ] ???????????
 	- [ ] ???????????
 
