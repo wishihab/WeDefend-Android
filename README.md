@@ -22,9 +22,15 @@
 - [x] Scanner :
 	- [x] Online Scan
 	
-- [ ] Check APP : 
+- [x] Check APP : 
 	- [x] List of third party app installed in android
-	- [ ] Permission Auditor
+	- [x] Permission Auditor
+		-[x] can access camera
+		-[x] can access storage
+		-[x] can access microfone
+		-[x] can access location
+		-[x] etc wait until project finish for detail
+
 	
 - [ ] Network Stat :
 	- [x] Netstat syntax to check network connection between device and other connection
