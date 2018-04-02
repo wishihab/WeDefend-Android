@@ -40,12 +40,10 @@
 - [ ] Encryption ???
 	- [ ] File Encryption
 	- [ ] ???????????
-	- [ ] ???????????
 
 - [x] About : 
-	- [x] Information
-	- [x] Share : for sharing this app
-
+	- [x] Information about app
+	- [x] Share for sharing this app
 
 
 
