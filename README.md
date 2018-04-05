@@ -6,6 +6,10 @@
 
 ![ScreenShot](https://github.com/wishihab/WiDefend-Android/blob/master/WiDifendAndroids.PNG)
 
+- [ ] Download Apk For Android : Coming Soon
+- [ ] Tutorial For Android Apk : Coming Soon
+
+
 # System Req
 
 - Android Lollipop 5.0 API 21
