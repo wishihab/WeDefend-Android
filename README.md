@@ -6,8 +6,8 @@
 
 ![ScreenShot](https://github.com/wishihab/WiDefend-Android/blob/master/WiDifendAndroids.PNG)
 
-- [ ] Download Apk For Android : Coming Soon
-- [ ] Tutorial For Android Apk : Coming Soon
+- [ ] Download apk : Coming Soon
+- [ ] Tutorial : Coming Soon
 
 
 # System Req
@@ -34,7 +34,6 @@
 		- [x] can access microfone
 		- [x] can access location
 		- [x] etc wait until project finish for detail
-
 	
 - [ ] Network Stat :
 	- [x] Netstat syntax to check network connection between device and other connection
@@ -55,5 +54,5 @@
 - [ ] Project Complete
 
 
-> *Keywords: Android, Trojan Malware, Remote Access Tool Trojan.*
+> *Keywords: Monitoring Android, Android Trojan, Trojan Malware, Remote Access Tool Trojan.*
 
