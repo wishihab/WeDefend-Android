@@ -4,7 +4,7 @@
 
 
 
-![ScreenShot](https://github.com/wishihab/WiDefend-Android/blob/master/WiDifendAndroids.PNG)
+![ScreenShot](https://github.com/wishihab/WiDefend-Android/blob/master/NavigatorMenu.PNG)
 
 - [ ] Download apk : Coming Soon
 - [ ] Tutorial : Coming Soon
