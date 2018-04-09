@@ -40,8 +40,8 @@
 	- [x] Geolocation IP using ip-api.com
 	- [ ] Auto Categorize IP Level (goal)
 	
-- [ ] Encryption ???
-	- [ ] File Encryption
+- [x] Encryption
+	- [x] File AEScryption with custom extenstion
 
 - [x] About : 
 	- [x] Information about app
