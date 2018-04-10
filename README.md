@@ -30,16 +30,16 @@
 	- [x] List of third party app installed in android
 
 - [x] Permission Auditor :
-		- [x] have network access
-		- [x] have access to storage
-		- [x] have access to camera
-		- [x] have access to microphone
-		- [x] have access to location
-		- [x] have access to contacts
-		- [x] can make call
-		- [x] read personal information
-		- [x] can be device administrator
-		- [x] can reboot device
+	- [x] have network access
+	- [x] have access to storage
+	- [x] have access to camera
+	- [x] have access to microphone
+	- [x] have access to location
+	- [x] have access to contacts
+	- [x] can make call
+	- [x] read personal information
+	- [x] can be device administrator
+	- [x] can reboot device
 	
 - [ ] Network Stat :
 	- [x] Netstat syntax to check network connection between device and other connection
