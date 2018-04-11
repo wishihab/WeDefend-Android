@@ -1,4 +1,4 @@
-# WiDefend-Android
+# WiDefend-Android (WeDefend)
 
 **MONITOR AND INCIDENT RESPONSE FROM REMOTE ACCESS TOOL TROJAN**
 
