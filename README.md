@@ -41,10 +41,9 @@
 	- [x] can be device administrator
 	- [x] can reboot device
 	
-- [ ] Network Stat :
+- [x] Network Stat :
 	- [x] Netstat syntax to check network connection between device and other connection
 	- [x] Geolocation IP using ip-api.com
-	- [ ] Auto Categorize IP Level (goal)
 	
 - [x] Encryption
 	- [x] File AEScryption with custom extenstion
