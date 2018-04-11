@@ -8,7 +8,7 @@
 
 - [ ] Download apk : Coming Soon
 - [ ] Tutorial : Coming Soon
-
+- License https://github.com/wishihab/WiDefend-Android/blob/master/LICENSE
 
 # System Req
 
