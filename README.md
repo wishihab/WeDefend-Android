@@ -3,7 +3,6 @@
 **MONITOR AND PROTECT ANDROID FROM REMOTE ACCESS TOOL TROJAN**
 
 
-
 ![ScreenShot](https://github.com/wishihab/WiDefend-Android/blob/master/menudrawer.PNG)
 
 - Download apk : Coming Soon
