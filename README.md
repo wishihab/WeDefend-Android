@@ -24,7 +24,7 @@
 	- [x] System Update
 	
 - [x] Scanner :
-	- [x] Online Scan
+	- [x] Online Scan using virusdeskKaspersky
 	
 - [x] Check APP : 
 	- [x] List of third party app installed in android
