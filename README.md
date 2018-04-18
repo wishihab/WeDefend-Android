@@ -2,7 +2,7 @@
 
 **MONITOR AND PROTECT ANDROID FROM REMOTE ACCESS TOOL TROJAN**
 
-Monitoring your network activity, permission usage to detect trojan malware and also protect your data in android device.
+Check network activity, permission usage to against remote access trojan malware and also protect your data in android operating system.
 
 
 ![ScreenShot](https://github.com/wishihab/WiDefend-Android/blob/master/menudrawer.PNG)
