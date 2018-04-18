@@ -2,7 +2,7 @@
 
 **MONITOR AND PROTECT ANDROID FROM REMOTE ACCESS TOOL TROJAN**
 
-Check network activity, permission usage to against remote access trojan malware and also protect your data in android operating system.
+WeDefend is application based on java programming language with several features as check network activity, permission usage, file encryption to against and also protect user data from remote access trojan malware in android operating system. This application will help a user to increase their privacy awareness.
 
 
 ![ScreenShot](https://github.com/wishihab/WiDefend-Android/blob/master/menudrawer.PNG)
