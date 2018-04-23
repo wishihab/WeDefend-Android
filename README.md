@@ -47,6 +47,7 @@ WeDefend is application based on java programming language with several features
 	
 - [x] Network Stat :
 	- [x] Netstat syntax to check network connection between device and other connection
+	- [x] Copy netstat to clipboard
 
 - [x] Geolocation by ip-api.com
 	- [x] Trace IP
