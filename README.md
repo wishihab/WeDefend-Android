@@ -17,6 +17,8 @@ WeDefend is application based on java programming language with several features
 # System Req
 
 - Android Lollipop 5.0 API 21
+- Min : 5.0 Max: 8.0
+- /proc/net netstat tcp udp removed on android P https://thehackernews.com/2018/05/android-p-network-activity.html (but you can install terminal and using byyourself)
 
 # Features
 
