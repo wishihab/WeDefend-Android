@@ -65,10 +65,13 @@ WeDefend is application based on java programming language with several features
 	- [x] Information about app
 	- [x] Share for sharing this app
 
+## Current Awesome Library Used
+- [x] Android Constraint Layout
+- [x] [CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash)
+- [x] [MaterialFilePicker](https://github.com/nbsp-team/MaterialFilePicker)
 
 
 ## Process
-
 - [ ] Project Complete
 
 
