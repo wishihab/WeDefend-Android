@@ -74,6 +74,11 @@ WeDefend is application based on java programming language with several features
 ## Process
 - [ ] Project Complete
 
+## Purpose
+- Thesis project!!
+- Help Android users get their privacy!!
+- Realize Something in my head!!!!
+
 
 > *Keywords: Monitoring Android, Android Trojan, Trojan Malware, Remote Access Tool Trojan.*
 
