@@ -56,7 +56,7 @@ WeDefend is application based on java programming language with several features
 
 - [x] Geolocation by ip-api.com
 	- [x] Trace IP
-	- [x] Show on googlemap
+	- [x] Show IP Location on Google Map application
 	
 - [x] Encryption
 	- [x] File AEScryption with custom extenstion
