@@ -72,7 +72,7 @@ WeDefend is application based on java programming language with several features
 
 
 ## Process
-- [ ] Project Complete
+- [x] Project Complete (Estimate to publish on August2018)
 
 ## Purpose
 - Thesis project!!
