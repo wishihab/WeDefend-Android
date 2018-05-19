@@ -15,13 +15,14 @@ WeDefend is application based on java programming language with several features
 
 - Download apk : Coming Soon
 - Tutorial : Coming Soon
+- This app may not work on Android P, because /proc/net netstat tcp udp protected [THN](https://thehackernews.com/2018/05/android-p-network-activity.html) (but you can install terminal and using byyourself)
 - [License](https://github.com/wishihab/WiDefend-Android/blob/master/LICENSE)
 
 ## System Req
 
 - Android Lollipop 5.0 API 21
 - Min : 5.0 Max: 8.0
-- /proc/net netstat tcp udp removed on android P [THN](https://thehackernews.com/2018/05/android-p-network-activity.html) (but you can install terminal and using byyourself)
+
 
 ## Features
 
