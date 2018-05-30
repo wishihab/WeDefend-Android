@@ -71,15 +71,17 @@ WeDefend is application based on java programming language with several features
 - [x] [CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash)
 - [x] [MaterialFilePicker](https://github.com/nbsp-team/MaterialFilePicker)
 
+## Video and Menu
+![ScreenShot](https://github.com/wishihab/WeDefend-Android/blob/master/WeDefend.PNG)
 
-## Process
-- [x] Project Complete (Estimate to publish on August2018)
 
 ## Purpose
 - Thesis project!!
 - Help Android users get their privacy!!
 - Realize Something in my head!!!!
 
+## Process
+- [x] Project Complete (Estimate to publish apk on August2018)
 
 > *Keywords: Android, Monitoring Android, Android Trojan, Trojan Malware, Remote Access Tool Trojan.*
 
