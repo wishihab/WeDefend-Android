@@ -11,6 +11,9 @@ WeDefend is application based on java programming language with several features
 - [x] [WeDefend with Python](https://github.com/wishihab/WeDefendPyth)
 - [x] [Android-RATList](https://github.com/wishihab/Android-RATList)
 
+## Video
+[![Video Demo](https://github.com/wishihab/WeDefend-Android/blob/master/YoutubeVideo.PNG)](https://youtu.be/zTdZT4CCSVE) 
+
 ## Info
 
 - Download apk : Coming Soon
@@ -70,9 +73,6 @@ WeDefend is application based on java programming language with several features
 - [x] Android Constraint Layout
 - [x] [CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash)
 - [x] [MaterialFilePicker](https://github.com/nbsp-team/MaterialFilePicker)
-
-## Video and Menu
-![ScreenShot](https://github.com/wishihab/WeDefend-Android/blob/master/WeDefend.PNG)
 
 
 ## Purpose
