@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">WiDefend</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">About</string>
+    <string name="this_application_is_not_antivirus_this_app_can_t_remove_and_detect_automatically_ratrojan_this_app_helpful_to_analyze_from_amature_or_normal_skill_attacker">This application is not antivirus, this app can\'t remove and detect automatically RATrojan, this app helpful to analyze from amature or normal skill attacker.</string>
+    <string name="credit_by_m_alwi_shihab">Credit By : M. Alwi Shihab</string>
+    <string name="thanks_to_everyone">Thanks to : Everyone</string>
+    <string name="android_version_v_1_0_112017">Android Version : v 1.0 (112017)</string>
+    <string name="title_activity_device">Device</string>
+    <string name="title_activity_listapp">Check App</string>
+    <string name="title_activity_tips">Tips</string>
+    <string name="title_activity_network">Network</string>
+    <string name="title_activity_scan">Scan</string>
+    <string name="title_activity_encryption">Encryption</string>
+    <string name="title_activity_finding_ip">Finding IP</string>
+    <string name="title_activity_permission">Permission</string>
+
+    <string-array name="permissionsauditor">
+        <item>have network access</item>
+        <item>have access to storage</item>
+        <item>have access to camera</item>
+        <item>have access to microphone</item>
+        <item>have access to location</item>
+        <item>have access to message</item>
+        <item>have access to contacts</item>
+        <item>can make calls</item>
+        <item>read your personal info</item>
+        <item>can be device administrator</item>
+        <item>can reboot device</item>
+    </string-array>
+
+
+</resources>

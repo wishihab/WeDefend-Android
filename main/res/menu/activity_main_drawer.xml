@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_device"
+            android:icon="@drawable/ic_phone_android_black_24dp"
+            android:title="MY DEVICE" />
+        <item
+            android:id="@+id/nav_scan"
+            android:icon="@drawable/ic_file_upload_black_24dp"
+            android:title="SCAN FILE ONLINE" />
+        <item
+            android:id="@+id/nav_listapp"
+            android:icon="@drawable/ic_sync_problem_black_24dp"
+            android:title="CHECK APP" />
+        <item
+            android:id="@+id/nav_permission"
+            android:icon="@drawable/ic_visibility_black_24dp"
+            android:title="PERMISSION AUDITOR" />
+        <item
+            android:id="@+id/nav_network"
+            android:icon="@drawable/ic_network_check_black_24dp"
+            android:title="NETWORK STAT" />
+        <item
+            android:id="@+id/nav_findingip"
+            android:icon="@drawable/ic_find_in_page_black_24dp"
+            android:title="FINDING IP ADDRESS" />
+        <item
+            android:id="@+id/nav_folderlock"
+            android:icon="@drawable/ic_screen_lock_portrait_black_24dp"
+            android:title="FILE ENCRYPTION" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_android_black_24dp"
+                android:title="ABOUT" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="SHARE" />
+        </menu>
+    </item>
+
+</menu>

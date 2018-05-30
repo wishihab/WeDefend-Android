@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.wishihab.widefend.FindingIP"
+    tools:showIn="@layout/app_bar_finding_ip">
+
+    <EditText
+        android:id="@+id/edit_ipin"
+        android:layout_width="215dp"
+        android:layout_height="46dp"
+        android:layout_marginBottom="14dp"
+        android:layout_marginEnd="84dp"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="86dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="127.0.0.1"
+        app:layout_constraintBottom_toTopOf="@+id/but_findip"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textJsonHere" />
+
+    <Button
+        android:id="@+id/but_findip"
+        android:layout_width="119dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="47dp"
+        android:layout_marginStart="51dp"
+        android:layout_marginTop="13dp"
+        android:text="Let's Finding"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_ipin" />
+
+    <TextView
+        android:id="@+id/textJsonHere"
+        android:layout_width="358dp"
+        android:layout_height="244dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="27dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_map"
+        android:layout_width="121dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="47dp"
+        android:layout_marginEnd="62dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="20dp"
+        android:text="Google Maps"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/but_findip"
+        app:layout_constraintTop_toBottomOf="@+id/edit_ipin" />
+
+</android.support.constraint.ConstraintLayout>

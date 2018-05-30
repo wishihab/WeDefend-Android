@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.wishihab.widefend.PermissionList"
+    tools:showIn="@layout/app_bar_tabbedapp">
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="381dp"
+        android:layout_height="24dp"
+        android:layout_marginBottom="17dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginTop="8dp"
+        android:entries="@array/permissionsauditor"
+        app:layout_constraintBottom_toTopOf="@+id/lists"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/list_app_name"
+        android:layout_width="384dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/app_icon"
+        android:layout_marginTop="69dp"
+        android:layout_toRightOf="@+id/app_icon"
+        android:textColor="#000000"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ListView
+        android:id="@+id/lists"
+        android:layout_width="384dp"
+        android:layout_height="match_parent"
+        android:layout_marginTop="41dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/app_icon"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="44dp"
+        android:contentDescription="hello_world"
+        android:paddingBottom="8dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>
