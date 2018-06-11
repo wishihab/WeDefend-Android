@@ -17,7 +17,7 @@ WeDefend is application based on java programming language with several features
 
 ## Info
 
-- Download apk : Coming Soon
+- Download apk : https://github.com/wishihab/WeDefend-Android/releases
 - Tutorial : Coming Soon
 - This app may not work on Android P, because /proc/net netstat tcp udp protected [THN](https://thehackernews.com/2018/05/android-p-network-activity.html) (but you can install terminal and using byyourself)
 - [License](https://github.com/wishihab/WiDefend-Android/blob/master/LICENSE)
