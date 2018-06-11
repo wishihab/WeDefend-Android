@@ -4,6 +4,7 @@
 
 
 WeDefend is application based on java programming language with several features as check network activity, permission usage, file encryption to against and also protect user data from remote access trojan malware in android operating system. This application will help a user to increase their privacy awareness.
+
 	
 <i>Note: This application is not an antivirus, this app can't remove and detect Remote Access Trojan automatically, this app will against Remote Access Trojan from amateur to normal skill attackers.</i>
 
@@ -20,6 +21,7 @@ WeDefend is application based on java programming language with several features
 - Tutorial : Coming Soon
 - This app may not work on Android P, because /proc/net netstat tcp udp protected [THN](https://thehackernews.com/2018/05/android-p-network-activity.html) (but you can install terminal and using byyourself)
 - [License](https://github.com/wishihab/WiDefend-Android/blob/master/LICENSE)
+- This app is open-source feel free to fork, improve, and use. You can submit pull requests!
 
 ## System Req
 
