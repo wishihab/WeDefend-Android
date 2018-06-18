@@ -82,7 +82,7 @@ WeDefend is application based on java programming language with several features
 - Realize Something in my head!!!!
 
 ## Process
-- [x] Project Complete
+- [ ] Project Complete (I Would like to add some function June 2018)
 
 > *Keywords: Android, Monitoring Android, Android Trojan, Trojan Malware, Remote Access Tool Trojan.*
 
