@@ -43,7 +43,7 @@ WeDefend is application based on java programming language with several features
 - [x] Check APP : 
 	- [x] List of third party app installed in android
 
-- [x] Permission Auditor :
+- [x] Permission Auditor, listing third party app with specific permission :
 	- [x] have network access
 	- [x] have access to storage
 	- [x] have access to camera
