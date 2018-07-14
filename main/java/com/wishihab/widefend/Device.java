@@ -49,8 +49,6 @@ public class Device extends AppCompatActivity
 
         btupdates.setOnClickListener(new View.OnClickListener() {
 
-
-
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(android.provider.Settings.ACTION_DEVICE_INFO_SETTINGS);
@@ -60,12 +58,15 @@ public class Device extends AppCompatActivity
         });
         btmanageinstalled.setOnClickListener(new View.OnClickListener() {
 
-
-
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Settings.ACTION_SECURITY_SETTINGS);
-                startActivity(intent);
+                if (Build.VERSION.SDK_INT < Build.VERSION_CODES.O)
+                {
+                    Intent intent = new Intent(Settings.ACTION_SECURITY_SETTINGS);
+                    startActivity(intent);
+                }else{
+                    Toast.makeText(Device.this, "Isn't Work on Your OS Version!!", Toast.LENGTH_SHORT).show();
+                }
             }
 
         });
