@@ -42,18 +42,7 @@ public class Listapp extends AppCompatActivity
         final List<AppList> installedApps = getInstalledApps();
         final AppAdapter installedAppAdapter = new AppAdapter(Listapp.this, installedApps);
         userInstalledApps.setAdapter(installedAppAdapter);
-        /*userInstalledApps.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-
-            @Override
-            public void onItemClick(AdapterView<?> arg0, View arg1, int position, long arg3) {
-                Intent intent = new Intent();
-                intent.setAction(Settings.ACTION_APPLICATION_DETAILS_SETTINGS);
-                Uri uri = Uri.fromParts("package", getPackageName(), null);
-                intent.setData(uri);
-                startActivity(intent);
-            }
-        });
-        */
+        
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -79,7 +68,10 @@ public class Listapp extends AppCompatActivity
             if ((!isSystemPackage(p))) {
                 String appName = p.applicationInfo.loadLabel(getPackageManager()).toString();
                 Drawable icon = p.applicationInfo.loadIcon(getPackageManager());
-
+                // Example for catch appName Trojan
+                if (appName.equals("AhMyth") || appName.equals("DroidJack")){
+                    Toast.makeText(Listapp.this, "We found AhMyth Trojan!!", Toast.LENGTH_SHORT).show();
+                }
                 res.add(new AppList(appName, icon));
             }
         }
@@ -90,8 +82,6 @@ public class Listapp extends AppCompatActivity
     private boolean isSystemPackage(PackageInfo pkgInfo) {
         return ((pkgInfo.applicationInfo.flags & ApplicationInfo.FLAG_SYSTEM) != 0);
     }
-
-
 
 
     @Override
